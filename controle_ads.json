@@ -3,11 +3,11 @@
     "admob_inter":"ca-app-pub-3940256099942544/1033173712",
     "admob_reward":"ca-app-pub-3940256099942544/5224354917",
 	"admob_inter_st":true,
-	"admob_only":true,
+	"admob_only":false,
       
     "applovin_inter":"85830841e44444f1",
     "applovin_reward":"827eb9fb178e9f6e",
-	"applovin_inter_st":true,
+	"applovin_inter_st":false,
 	"applovin_only":false,
 
       
