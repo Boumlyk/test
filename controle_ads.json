@@ -14,7 +14,7 @@
     "Fb_inter":"1096945434495043_1096950631161190",
     "Fb_reward":"1096945434495043_1169490650573854",
 	"fb_inter_st":true,
-	"fb_only":false,
+	"fb_only":true,
 
     "iron_Id":"115e9419d",
 	"iron_reward":"DefaultRewardedVideo",
@@ -23,7 +23,7 @@
 	   
     "unity_Id":"4147749",
     "unity_inter_st":true,
-    "unity_only":true
+    "unity_only":false
     }
     
 }
